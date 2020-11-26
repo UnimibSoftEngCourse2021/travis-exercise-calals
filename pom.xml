@@ -22,9 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-</project>
-
-<build>
+  
+  <build>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -39,3 +38,5 @@
       </plugins>
     </pluginManagement>
   </build>
+  
+</project>
